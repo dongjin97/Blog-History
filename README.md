@@ -9,6 +9,6 @@ https://velog.io/@tjsqls8337  블로그 정리
  - [연산자](https://velog.io/@tjsqls8337/%EC%97%B0%EC%82%B0%EC%9E%90)
  - [옵셔널](https://velog.io/@tjsqls8337/%EC%98%B5%EC%85%94%EB%84%90)
  - [데이터 타입 고급](https://velog.io/@tjsqls8337/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85-%EA%B3%A0%EA%B8%89)
- - [흐름제어 (조건문 & 반복문)]https://velog.io/@tjsqls8337/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4-%EC%A1%B0%EA%B1%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8
+ - [흐름제어 - 조건문 & 반복문]https://velog.io/@tjsqls8337/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4-%EC%A1%B0%EA%B1%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8
 # Clean Architecture
  - [SOLID 복습 with Swift](https://velog.io/@tjsqls8337/SOLID-%EB%B3%B5%EC%8A%B5-with-Swift)
