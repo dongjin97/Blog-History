@@ -15,3 +15,5 @@ https://velog.io/@tjsqls8337  블로그 정리
  - [상속](https://velog.io/@tjsqls8337/%EC%83%81%EC%86%8D)
 # Clean Architecture
  - [SOLID 복습 with Swift](https://velog.io/@tjsqls8337/SOLID-%EB%B3%B5%EC%8A%B5-with-Swift)
+# CS
+- [메모리 관리 & ARC](https://velog.io/@tjsqls8337/%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B4%80%EB%A6%AC-ARC)
