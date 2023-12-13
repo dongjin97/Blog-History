@@ -13,6 +13,7 @@ https://velog.io/@tjsqls8337  블로그 정리
  - [프로퍼티](https://velog.io/@tjsqls8337/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0)
  - [함수](https://velog.io/@tjsqls8337/%ED%95%A8%EC%88%98)
  - [상속](https://velog.io/@tjsqls8337/%EC%83%81%EC%86%8D)
+ - [클로저](https://velog.io/@tjsqls8337/%ED%81%B4%EB%A1%9C%EC%A0%80)
 # Clean Architecture
  - [SOLID 복습 with Swift](https://velog.io/@tjsqls8337/SOLID-%EB%B3%B5%EC%8A%B5-with-Swift)
 # CS
