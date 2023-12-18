@@ -21,3 +21,5 @@ https://velog.io/@tjsqls8337  블로그 정리
 # CS
 - [메모리 관리 & ARC](https://velog.io/@tjsqls8337/%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B4%80%EB%A6%AC-ARC)
 - [인스턴스 생성 & 소멸](https://velog.io/@tjsqls8337/%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%83%9D%EC%84%B1-%EC%86%8C%EB%A9%B8)
+# Code Base UI
+- [사전 작업](https://velog.io/@tjsqls8337/Code-Base-UI-%EC%82%AC%EC%A0%84-%EC%9E%91%EC%97%85)
