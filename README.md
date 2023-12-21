@@ -18,6 +18,7 @@ https://velog.io/@tjsqls8337  블로그 정리
  - [확장](https://velog.io/@tjsqls8337/%ED%99%95%EC%9E%A5)
  - [고차 함수](https://velog.io/@tjsqls8337/%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98)
  - [타입 캐스팅](https://velog.io/@tjsqls8337/%ED%83%80%EC%9E%85-%EC%BA%90%EC%8A%A4%ED%8C%85)
+ - [접근 제한자](https://velog.io/@tjsqls8337/%EC%A0%91%EA%B7%BC-%EC%A0%9C%ED%95%9C%EC%9E%90)
 # Clean Architecture
  - [SOLID 복습 with Swift](https://velog.io/@tjsqls8337/SOLID-%EB%B3%B5%EC%8A%B5-with-Swift)
 # CS
