@@ -30,3 +30,5 @@ https://velog.io/@tjsqls8337  블로그 정리
 - [사전 작업](https://velog.io/@tjsqls8337/Code-Base-UI-%EC%82%AC%EC%A0%84-%EC%9E%91%EC%97%85)
 # etc
 - [Container VC](https://velog.io/@tjsqls8337/Container-VC)
+# 회고
+- [키오스크 주문내역 기능 회고](https://velog.io/@tjsqls8337/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EC%A3%BC%EB%AC%B8-%EB%82%B4%EC%97%AD-%ED%99%94%EB%A9%B4-%EA%B5%AC%ED%98%84-%ED%9A%8C%EA%B3%A0)
