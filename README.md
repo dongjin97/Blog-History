@@ -28,6 +28,8 @@ https://velog.io/@tjsqls8337  블로그 정리
 - [자료구조 & DFS/BFS](https://velog.io/@tjsqls8337/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0DFSBFS)
 # Code Base UI
 - [사전 작업](https://velog.io/@tjsqls8337/Code-Base-UI-%EC%82%AC%EC%A0%84-%EC%9E%91%EC%97%85)
+# Git
+- [git rebase & merge](https://velog.io/@tjsqls8337/Git-rabase)
 # etc
 - [Container VC](https://velog.io/@tjsqls8337/Container-VC)
 # 회고
