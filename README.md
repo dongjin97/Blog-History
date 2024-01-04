@@ -38,4 +38,4 @@ https://velog.io/@tjsqls8337  블로그 정리
 # 네트워크 통신
 - [네크워크 통신 기본 & URLSession](https://velog.io/@tjsqls8337/%EB%84%A4%ED%81%AC%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0)
 # 내부저장소
-= [내부저장소 기본 & CoreData](https://velog.io/@tjsqls8337/%EB%82%B4%EB%B6%80-%EC%A0%80%EC%9E%A5%EC%86%8C)
+- [내부저장소 기본 & CoreData](https://velog.io/@tjsqls8337/%EB%82%B4%EB%B6%80-%EC%A0%80%EC%9E%A5%EC%86%8C)
