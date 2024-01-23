@@ -30,6 +30,7 @@ https://velog.io/@tjsqls8337  블로그 정리
 - [사전 작업](https://velog.io/@tjsqls8337/Code-Base-UI-%EC%82%AC%EC%A0%84-%EC%9E%91%EC%97%85)
 # AutoLayout
 - [우선순위 Priority](https://velog.io/@tjsqls8337/AutoLayout-Priority)
+- [UILabel 위쪽 정렬](https://velog.io/@tjsqls8337/UILabel-%EC%9C%84%EC%AA%BD-%EC%A0%95%EB%A0%AC)
 # Git
 - [git rebase & merge](https://velog.io/@tjsqls8337/Git-rabase)
 # 네트워크 통신
