@@ -1,7 +1,7 @@
 # Blog-History
 블로그 정리 
 [벨로그에서 티스토리로 블로그 변경](https://dongjin97-ios.tistory.com/2)
-https://velog.io/@tjsqls8337  -> https://dongjin97-ios.tistory.com/
+## https://velog.io/@tjsqls8337  -> https://dongjin97-ios.tistory.com/
 # Tistory
 ## TIL
  - [2024.02.26](https://dongjin97-ios.tistory.com/3)
